@@ -1,0 +1,13 @@
+# Maven
+target
+.factorypath
+
+# Eclipse
+.metadata
+.settings
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea
+*.iml
