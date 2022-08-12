@@ -34,6 +34,8 @@ en contrucción ...
 
 ## Ejemplos
 
+```
 get, post, put, delete 
 https://reqres.in
+```
 
