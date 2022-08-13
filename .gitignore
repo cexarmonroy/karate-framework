@@ -1,6 +1,5 @@
 # Maven
-target
-.factorypath
+/target/
 
 # Eclipse
 .metadata
